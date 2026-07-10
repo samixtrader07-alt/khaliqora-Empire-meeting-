@@ -1,0 +1,6 @@
+{
+  "name": "Khaliqora Empire Meetings",
+  "description": "Secure meeting and scheduling platform for 106 companies under the Khaliqora Empire, featuring dedicated company rooms, manager focus screens, active speaker highlighting, and staff management.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,35 @@
+{
+  "companies": [
+    {
+      "id": "comp_1",
+      "name": "Khaliqora Logistics",
+      "code": "KQ-LOG-101",
+      "createdAt": "2026-07-07T07:47:40.784Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr_admin",
+      "name": "Khaliqora Admin (Empire Owner)",
+      "email": "admin@khaliqora.com",
+      "password": "admin",
+      "cnic": "37405-1234567-9",
+      "mobile": "0300-1234567",
+      "role": "super_admin",
+      "status": "approved",
+      "createdAt": "2026-07-07T07:47:40.784Z"
+    }
+  ],
+  "meetingPosts": [
+    {
+      "id": "post_1",
+      "title": "All-Empire Q3 Quarterly Strategy Meeting",
+      "timing": "2026-07-09T07:47:40.785Z",
+      "description": "A combined review of the quarterly goals for all 106 companies under the Khaliqora Empire. All managers and executive staff are requested to join their respective rooms.",
+      "companyId": "all",
+      "companyName": "Khaliqora Empire Group",
+      "postedBy": "Khaliqora Admin (Empire Owner)",
+      "createdAt": "2026-07-07T07:47:40.785Z"
+    }
+  ]
+}
